@@ -1,5 +1,5 @@
 
-# Link Safety Checker
+# Is This Link Safe? Link Safety Checker
 
 This Python repository provides a simple utility to check the safety of a given URL. The script validates the URL format, checks for a valid SSL certificate, and verifies that the domain is not included in a list of known malicious websites.
 
